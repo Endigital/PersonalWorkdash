@@ -1,0 +1,17 @@
+#control_panel{
+	width:1400px;
+	height:100px;
+	background-color: green;
+}
+
+#show_view{
+	width:1400px;
+	height:400px;
+}
+
+.graphitem{
+	width:45%;
+	height:auto;
+	margin: 5px;
+	float:left;
+}
